@@ -16,3 +16,19 @@ SHA512: 81a1e384929e438dbb5b4caeaf19ab5fb2117399f9e3093e442d4100db656252c56cf8a9
 Description: Winux7 Office Integration
  Makes LibreOffice match the Winux7 system theme.
 
+Package: winux7-tela-icons
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: misc
+Maintainer: Stadiam94 <mosierty@gmail.com>
+Installed-Size: 57618
+Filename: ./winux7-tela-icons_1.0.0_all.deb
+Size: 3899244
+MD5sum: 1fa92c21c245db369655c05219a93eaa
+SHA1: 171028a96ccc9a73a33aa541c3e1ef2ae6108df3
+SHA256: 9242763061cdaf5661eec70216a64d34a26f2c3c0238f0e7ab5c3d0d06b0a749
+SHA512: ee289e4d7334f46cd31287197b4275dc00aae1a183a145adb2b7e2bf172f207ee1f7b694f288beef4f7da99700848d94f0639794d336b063fbbda5ad69a19b9c
+Description: Winux7 "Tela Circle" Icon Theme
+ Installs the modern Tela Circle (Blue) icon theme.
+
