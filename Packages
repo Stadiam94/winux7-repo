@@ -1,0 +1,18 @@
+Package: winux7-office-integration
+Architecture: all
+Version: 1.0.0-1
+Priority: optional
+Section: misc
+Source: winux7-office
+Maintainer: Stadiam94 <mosierty@gmail.com>
+Installed-Size: 7
+Depends: libreoffice-gtk3
+Filename: ./winux7-office-integration_1.0.0-1_all.deb
+Size: 926
+MD5sum: ed53a7f10a599d38705cf47f968c54eb
+SHA1: 9fb83c38c8be6b14a90b6e6e46ace530a939ab51
+SHA256: 8581b478dec0c080c03548e6cca63f47fd3d498c737cf14783508bd4fcf8b8ee
+SHA512: 81a1e384929e438dbb5b4caeaf19ab5fb2117399f9e3093e442d4100db656252c56cf8a918d8d418844a19425e84f4ff5461b17cefde619c01a547841231dbf6
+Description: Winux7 Office Integration
+ Makes LibreOffice match the Winux7 system theme.
+
